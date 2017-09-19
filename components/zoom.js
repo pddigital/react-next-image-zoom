@@ -18,7 +18,7 @@ export default class Zoom extends React.Component {
     
             elem.addEventListener('mousemove', (event) => {
     
-                let bounds = elem.getBoundingClientRect()
+                let bounds = elem.getBoundingClientRect();
     
                 let xposition = (event.clientX - bounds.left);
                 let yposition = (event.clientY - bounds.top);

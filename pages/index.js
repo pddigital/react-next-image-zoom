@@ -2,8 +2,8 @@ import Zoom from '../components/zoom';
 
 export default ()=>(
     <div className="zoom-container">
-    <h1>Image Zoom Example With Burt Reynolds</h1>
-    <Zoom large="../static/burt-reynolds-large.jpg" preview="../static/burt-reynolds-preview.jpg" />
+    <h1>Image Zoom Example with Sloth</h1>
+    <Zoom large="../static/sloth-large.jpg" preview="../static/sloth-preview.jpg" />
     <style jsx>
         {
             `
