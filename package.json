@@ -1,0 +1,26 @@
+{
+  "name": "react-next-image-zoom",
+  "version": "1.0.0",
+  "description": "an example of an image zoom component with React",
+  "main": "index.js",
+  "scripts": {
+    "dev" : "next",
+    "build" : "next build",
+    "start" : "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pddigital/react-next-image-zoom.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pddigital/react-next-image-zoom/issues"
+  },
+  "homepage": "https://github.com/pddigital/react-next-image-zoom#readme",
+  "dependencies": {
+    "next": "^3.2.2",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1"
+  }
+}
